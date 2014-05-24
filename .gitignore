@@ -21,7 +21,3 @@ _testmain.go
 
 *.exe
 
-# editors and IDEs
-
-vcard.sublime-project
-vcard.sublime-workspace
